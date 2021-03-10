@@ -1,6 +1,6 @@
 # Site settings
-title: Access has been restricted # 你的博客名字，可以定义修订
-header-img: "img/Access has not been restricted.jpg"
+title: Sailoryex's Ocean # 你的博客名字，可以定义修订
+header-img: "img/Access has not been restricted.png"
 tagline: "cn"  
 description: "It's a start of something New."  # 一句话描述你的博客
 baseurl: ""
@@ -14,7 +14,7 @@ owner:
 
 # Data
 gavatar: img/sailoryex.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/sailoryex.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/sailoryex.ico # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
