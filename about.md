@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: ""
 description: "It's a start of somesthing New " 
 header-img: "img/Access has not been restricted.png"
 ---
